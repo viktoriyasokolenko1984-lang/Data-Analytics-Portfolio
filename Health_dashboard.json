@@ -1,0 +1,28 @@
+{
+  "name": "Health Dashboard Theme",
+  "foreground": "#1F1F1F",
+  "background": "#FFFFFF",
+  "tableAccent": "#1F3C88",
+  "dataColors": [
+    "#4CAF50",
+    "#FFC107",
+    "#E53935",
+    "#2E7D7A",
+    "#A3D5FF",
+    "#C89F94",
+    "#9E9E9E"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontColor": { "solid": { "color": "#1F3C88" } },
+            "fontSize": 14,
+            "bold": true
+          }
+        ]
+      }
+    }
+  }
+}
