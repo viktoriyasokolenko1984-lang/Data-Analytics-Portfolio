@@ -1,0 +1,17 @@
+{
+  "name": "Nestle Theme",
+  "dataColors": [
+    "#4E342E",
+    "#D7CCC8",
+    "#1565C0",
+    "#90CAF9",
+    "#2E7D32",
+    "#A5D6A7",
+    "#C62828",
+    "#FDD835",
+    "#ECEFF1"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#1565C0"
+}
